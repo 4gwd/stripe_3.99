@@ -1,4 +1,6 @@
 import os
+os.system('pip install pycountry')
+os.system('pip install faker')
 import requests
 from bs4 import BeautifulSoup
 import telebot
